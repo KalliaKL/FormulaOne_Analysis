@@ -1,0 +1,98 @@
+F1 session analysis report
+
+Session: 2026_R03_Japanese/qualifying
+Type: qualifying
+Prefix: 20260330_200718_Japanese_2026_qualifying
+
+KEY INSIGHTS
+INSIGHT 01 | STRONG SIGNAL | Fastest representative lap
+ANT set the benchmark at 1:28.778 on SOFT.
+Tables:
+- 20260330_200718_Japanese_2026_qualifying_best_laps.csv
+Charts:
+- 20260330_200718_Japanese_2026_qualifying_best_laps_top10.png
+
+INSIGHT 02 | IMPORTANT | Most unused lap potential
+HAM left 0.247s on the table versus their theoretical best.
+Tables:
+- 20260330_200718_Japanese_2026_qualifying_theoretical_best.csv
+Charts:
+- 20260330_200718_Japanese_2026_qualifying_actual_vs_theoretical_best.png
+
+INSIGHT 03 | IMPORTANT | Track evolution
+The session-best bucket improved by about 1.300s.
+Tables:
+- 20260330_200718_Japanese_2026_qualifying_track_evolution.csv
+Charts:
+- 20260330_200718_Japanese_2026_qualifying_track_evolution.png
+
+INSIGHT 04 | INFO | Top speed benchmark
+LAW recorded the highest speed trap at 291.0 km/h.
+Tables:
+- 20260330_200718_Japanese_2026_qualifying_speed_summary.csv
+Charts:
+- 20260330_200718_Japanese_2026_qualifying_speed_trap_ranking.png
+
+INSIGHT 05 | WATCH | Largest teammate top-speed split
+ALO was 19.0 km/h faster than STR within Aston Martin.
+Tables:
+- 20260330_200718_Japanese_2026_qualifying_teammate_speed_delta.csv
+Charts:
+- 20260330_200718_Japanese_2026_qualifying_speed_trap_ranking.png
+
+INSIGHT 06 | INFO | Most representative running
+HAM logged 10 clean laps.
+Tables:
+- 20260330_200718_Japanese_2026_qualifying_representative_laps.csv
+Charts:
+- 20260330_200718_Japanese_2026_qualifying_lap_pace_top6.png
+
+INSIGHT 07 | INFO | Longest stint
+LEC completed 4 laps on SOFT.
+Tables:
+- 20260330_200718_Japanese_2026_qualifying_stint_summary.csv
+Charts:
+
+INSIGHT 08 | INFO | Track temp change
+Track temperature changed by -6.3°C.
+Charts:
+- 20260330_200718_Japanese_2026_qualifying_weather_trace.png
+
+BEST LAPS
+- ANT: 1:28.778 | SOFT
+- RUS: 1:29.076 (+0.298s) | SOFT
+- PIA: 1:29.132 (+0.354s) | SOFT
+- LEC: 1:29.303 (+0.525s) | SOFT
+- NOR: 1:29.409 (+0.631s) | SOFT
+- HAM: 1:29.567 (+0.789s) | SOFT
+- GAS: 1:29.691 (+0.913s) | SOFT
+- HAD: 1:29.978 (+1.200s) | SOFT
+- BOR: 1:29.990 (+1.212s) | SOFT
+- LIN: 1:30.109 (+1.331s) | SOFT
+- VER: 1:30.262 (+1.484s) | SOFT
+- OCO: 1:30.309 (+1.531s) | SOFT
+- HUL: 1:30.358 (+1.580s) | SOFT
+- LAW: 1:30.495 (+1.717s) | SOFT
+- COL: 1:30.627 (+1.849s) | SOFT
+- SAI: 1:30.927 (+2.149s) | SOFT
+- ALB: 1:31.088 (+2.310s) | SOFT
+- BEA: 1:31.090 (+2.312s) | SOFT
+- PER: 1:32.206 (+3.428s) | SOFT
+- BOT: 1:32.330 (+3.552s) | SOFT
+- ALO: 1:32.646 (+3.868s) | SOFT
+- STR: 1:32.920 (+4.142s) | SOFT
+
+CHARTS
+- 20260330_200718_Japanese_2026_qualifying_best_laps_top10.png
+- 20260330_200718_Japanese_2026_qualifying_actual_vs_theoretical_best.png
+- 20260330_200718_Japanese_2026_qualifying_track_evolution.png
+- 20260330_200718_Japanese_2026_qualifying_track_evolution_team.png
+- 20260330_200718_Japanese_2026_qualifying_track_evolution_pu.png
+- 20260330_200718_Japanese_2026_qualifying_lap_pace_top6.png
+- 20260330_200718_Japanese_2026_qualifying_pace_violin.png
+- 20260330_200718_Japanese_2026_qualifying_pace_violin_pu.png
+- 20260330_200718_Japanese_2026_qualifying_weather_trace.png
+- 20260330_200718_Japanese_2026_qualifying_speed_trap_ranking.png
+- 20260330_200718_Japanese_2026_qualifying_speed_heatmap.png
+- 20260330_200718_Japanese_2026_qualifying_tyre_strategy.png
+- 20260330_200718_Japanese_2026_qualifying_sector_comparison.png

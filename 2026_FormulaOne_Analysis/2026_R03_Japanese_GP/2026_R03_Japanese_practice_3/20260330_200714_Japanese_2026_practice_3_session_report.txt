@@ -1,0 +1,119 @@
+F1 session analysis report
+
+Session: 2026_R03_Japanese/practice_3
+Type: practice
+Prefix: 20260330_200714_Japanese_2026_practice_3
+
+KEY INSIGHTS
+INSIGHT 01 | STRONG SIGNAL | Fastest representative lap
+ANT set the benchmark at 1:29.362 on SOFT.
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_best_laps.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_best_laps_top10.png
+
+INSIGHT 02 | IMPORTANT | Most unused lap potential
+RUS left 0.270s on the table versus their theoretical best.
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_theoretical_best.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_actual_vs_theoretical_best.png
+
+INSIGHT 03 | STRONG SIGNAL | Best tyre preservation
+LEC had the shallowest degradation at -3.433s/lap on stint 3 (SOFT).
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_degradation.csv
+- 20260330_200714_Japanese_2026_practice_3_stint_summary.csv
+- 20260330_200714_Japanese_2026_practice_3_long_run_rank.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_stint_degradation.png
+
+INSIGHT 04 | WATCH | Highest tyre drop-off
+NOR showed the steepest degradation at +13.319s/lap on stint 2 (SOFT).
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_degradation.csv
+- 20260330_200714_Japanese_2026_practice_3_stint_summary.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_stint_degradation.png
+
+INSIGHT 05 | IMPORTANT | Track evolution
+The session-best bucket improved by about 2.921s.
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_track_evolution.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_track_evolution.png
+
+INSIGHT 06 | INFO | Top speed benchmark
+SAI recorded the highest speed trap at 309.0 km/h.
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_speed_summary.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_speed_trap_ranking.png
+
+INSIGHT 07 | WATCH | Largest teammate top-speed split
+BOT was 10.0 km/h faster than PER within Cadillac.
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_teammate_speed_delta.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_speed_trap_ranking.png
+
+INSIGHT 08 | INFO | Most representative running
+HAD logged 17 clean laps.
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_representative_laps.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_lap_pace_top6.png
+
+INSIGHT 09 | INFO | Longest stint
+HAD completed 10 laps on MEDIUM.
+Tables:
+- 20260330_200714_Japanese_2026_practice_3_stint_summary.csv
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_stint_degradation.png
+
+INSIGHT 10 | INFO | Track temp change
+Track temperature changed by +3.4°C.
+Charts:
+- 20260330_200714_Japanese_2026_practice_3_weather_trace.png
+
+BEST LAPS
+- ANT: 1:29.362 | SOFT
+- RUS: 1:29.616 (+0.254s) | SOFT
+- LEC: 1:30.229 (+0.867s) | SOFT
+- PIA: 1:30.364 (+1.002s) | SOFT
+- HAM: 1:30.383 (+1.021s) | SOFT
+- NOR: 1:30.600 (+1.238s) | SOFT
+- HUL: 1:30.817 (+1.455s) | SOFT
+- VER: 1:30.910 (+1.548s) | SOFT
+- BOR: 1:31.000 (+1.638s) | SOFT
+- GAS: 1:31.082 (+1.720s) | SOFT
+- HAD: 1:31.094 (+1.732s) | SOFT
+- LAW: 1:31.097 (+1.735s) | SOFT
+- LIN: 1:31.288 (+1.926s) | SOFT
+- OCO: 1:31.326 (+1.964s) | SOFT
+- BEA: 1:31.558 (+2.196s) | MEDIUM
+- ALB: 1:31.733 (+2.371s) | SOFT
+- COL: 1:31.759 (+2.397s) | SOFT
+- SAI: 1:31.829 (+2.467s) | SOFT
+- BOT: 1:32.503 (+3.141s) | SOFT
+- PER: 1:32.540 (+3.178s) | SOFT
+- STR: 1:33.485 (+4.123s) | SOFT
+- ALO: 1:33.529 (+4.167s) | SOFT
+
+CHARTS
+- 20260330_200714_Japanese_2026_practice_3_best_laps_top10.png
+- 20260330_200714_Japanese_2026_practice_3_actual_vs_theoretical_best.png
+- 20260330_200714_Japanese_2026_practice_3_track_evolution.png
+- 20260330_200714_Japanese_2026_practice_3_track_evolution_team.png
+- 20260330_200714_Japanese_2026_practice_3_track_evolution_pu.png
+- 20260330_200714_Japanese_2026_practice_3_lap_pace_top6.png
+- 20260330_200714_Japanese_2026_practice_3_stint_degradation.png
+- 20260330_200714_Japanese_2026_practice_3_degradation_by_team.png
+- 20260330_200714_Japanese_2026_practice_3_long_run_tyre_age.png
+- 20260330_200714_Japanese_2026_practice_3_pace_violin.png
+- 20260330_200714_Japanese_2026_practice_3_pace_violin_pu.png
+- 20260330_200714_Japanese_2026_practice_3_weather_trace.png
+- 20260330_200714_Japanese_2026_practice_3_speed_trap_ranking.png
+- 20260330_200714_Japanese_2026_practice_3_speed_heatmap.png
+- 20260330_200714_Japanese_2026_practice_3_tyre_strategy.png
+- 20260330_200714_Japanese_2026_practice_3_sector_comparison.png
